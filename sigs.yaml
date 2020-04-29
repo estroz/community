@@ -85,4 +85,35 @@ workinggroups:
     slack: operator-sdk-dev
     mailing_list: https://groups.google.com/forum/#!forum/operator-framework
 usergroups: []
-committees: []
+committees:
+- dir: committee-code-of-conduct
+  name: Code of Conduct
+  mission_statement: >
+    The Operator Framework Code of Conduct Committee (CoCC) is the body that is responsible
+    for enforcing and maintaining the Operator Framework Code of Conduct.
+
+  charter_link: charter.md
+  label: code-of-conduct
+  leadership:
+    chairs:
+    - github: todo
+      name: To Do
+      company: TO DO Inc.
+    - github: todo
+      name: To Do
+      company: TO DO Inc.
+    - github: todo
+      name: To Do
+      company: TO DO Inc.
+    - github: todo
+      name: To Do
+      company: TO DO Inc.
+    - github: todo
+      name: To Do
+      company: TO DO Inc.
+  meetings: []
+  contact:
+    private_mailing_list: conduct@operatorframework.io
+    teams:
+    - name: code-of-conduct-committee
+      description: General Discussion

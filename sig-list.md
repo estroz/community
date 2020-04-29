@@ -40,6 +40,7 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name |  Label | Members | Contact |
 |------|--------|---------|---------|
+|[Code of Conduct](committee-code-of-conduct/README.md)|code-of-conduct|* [To Do](https://github.com/todo), TO DO Inc.<br>* [To Do](https://github.com/todo), TO DO Inc.<br>* [To Do](https://github.com/todo), TO DO Inc.<br>* [To Do](https://github.com/todo), TO DO Inc.<br>* [To Do](https://github.com/todo), TO DO Inc.<br>|* [Private Mailing List](conduct@operatorframework.io)
 <!-- BEGIN CUSTOM CONTENT -->
 
 <!-- END CUSTOM CONTENT -->
