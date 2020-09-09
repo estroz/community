@@ -1,6 +1,7 @@
 # Operator Framework Code of Conduct Committee Charter
 
 ## Mission/Purpose
+
 Our primary mission is creating and maintaining a safe and respectful community.
 Our role is to provide and enforce a well-considered viewpoint on what
 constitutes acceptable behavior within our community. The [Code of
@@ -17,6 +18,7 @@ everyone in the community equally. That said, the committee is oriented toward
 the protection of our community and takes that duty seriously.
 
 ## Communication with the committee
+
 The committee maintains a private mailing list for reporting incidents, asking
 confidential questions, and internal committee communication:
 
@@ -29,6 +31,7 @@ Slack is advisable. But an email must also be sent to
 guide the implementation of new policies and procedures.
 
 ### Others acting on behalf of the committee
+
 Community moderation administrators in Slack, the mailing list, community
 events, and elsewhere are extensions of the committee and are able to be first
 responders to incidents. They are explicitly empowered to take those actions
@@ -42,8 +45,8 @@ Slack messages, or the eviction of bad actors from public meetings. These
 actions must be communicated to the committee for review.
 
 ## Composition and Scope
-The [committee is composed of 5
-members](https://github.com/operator-framework/community/tree/master/committee-code-of-conduct).
+
+The committee is composed of 5 members.
 The committee is the primary recipient of all conduct complaints regardless of
 where in the community they originate. The only exception is at CNCF events,
 where the event Code of Conduct process supersedes this. That is primarily due
@@ -65,9 +68,11 @@ Conduct authority and enforcement to this committee. The committee can, at its
 discretion, delegate some authority to those tasked with enforcement.*
 
 ## Election
-TODO: Our election processes will be outlined in a separate document, coming soon.
+
+See [election.md](election.md).
 
 ## Committee Operation
+
 The committee strives to respond quickly to reports, as well as initiate
 whatever actions are appropriate based on severity, risk, urgency, and impact.
 In some cases, this requires individual committee members to take
@@ -84,16 +89,19 @@ internal operation of the committee will be stored in a private GitHub
 repository.
 
 ### Meeting quorum
+
 Meetings are considered at quorum when a simple majority of the members are
 present. Where there are 4 or fewer members available due vacant seats or
 recusal, quorum is 2.
 
 ### Policy change ratification
+
 Any changes to the charter require explicit LGTM or Approve from all
 committee members. For pull requests, a /hold will be applied until all
 approvals are present. Any changes merged without consensus will be reverted.
 
 ### Incident report confidentiality
+
 The Code of Conduct committee will keep your report confidential. The CoCC may
 share report information with the community chairs if they believe doing so is
 appropriate. Past incidents are communicated generally to new committee members
@@ -102,18 +110,21 @@ establishment of bias in new members it is believed that the educational value
 of this information outweighs the potential negatives.
 
 ### Incident Response Recusal
+
 A member of the Code of Conduct committee shall recuse themselves from
 evaluating and responding to any incident for which they are unable to be
 impartial. If a committee member does not recuse themselves they may be removed
 from participation by a unanimous vote of all other members of the committee.
 
 ### Committee seats unoccupied
+
 In the event that one or more of the seats on the committee is unoccupied, for any
 reason, a replacement member will be appointed by the community chairs as soon
 as reasonable. That person will serve out the remainder of the term of the
 person they are replacing.
 
 ### Committee dissolution
+
 If committee members believe that the committee is no longer able to act in
 accordance with the above Mission/Purpose the committee may vote to dissolve.
 The committee should specify a date of dissolution. Dissolution requires an
@@ -122,13 +133,13 @@ when the committee has only 4 or fewer members. If the committee is dissolved,
 all seats are vacated on the date specified.
 
 ### Removal
+
 A committee member may be removed from the committee by a unanimous decision of
 the other committee members. The member should be given the opportunity to
 resign before they are removed. Removal should only be considered for the
 following reasons:
 
 * The member has been found to have committed a code of conduct violation.
-* The member is convicted of a felony.
 * The member has been completely out of contact for more than 30 consecutive
   calendar days without having made prior arrangements.
 * The member has explicitly, publicly violated the privacy of individuals
@@ -140,6 +151,7 @@ following reasons:
   capacity.
 
 ### Resignation
+
 If a committee member chooses not to continue in their role, for whatever
 self-elected reason, they must notify the committee as well as the community
 chairs in writing. As a courtesy, such notifications should be given at least
